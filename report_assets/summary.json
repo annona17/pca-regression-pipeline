@@ -1,0 +1,20 @@
+{
+  "n_samples": 442,
+  "n_features_original": 10,
+  "n_features_expanded": 65,
+  "n_components_95": 33,
+  "best_model_label": "Ridge + PCA",
+  "best_params": {
+    "model__alpha": 50.0
+  },
+  "baseline_test": {
+    "MAE": 64.00646146990485,
+    "RMSE": 73.22249283682244,
+    "R2": -0.011962984778542296
+  },
+  "final_test": {
+    "MAE": 44.73789258450813,
+    "RMSE": 55.33849571354678,
+    "R2": 0.42199671636516556
+  }
+}
